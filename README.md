@@ -1,2 +1,2 @@
-# checkMate
-full checkmate board
+# CheckMate
+full checkmate board including soldiers
